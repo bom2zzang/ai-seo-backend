@@ -1,0 +1,24 @@
+# Node.js 관련
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 환경변수
+.env
+
+# 업로드 파일
+uploads/
+
+# 운영 캐시
+dist/
+.cache/
+*.log
+
+# macOS
+.DS_Store
+
+# 기타 IDE 설정
+.idea/
+.vscode/
+*.swp
